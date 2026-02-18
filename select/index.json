@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "夜を越える足音",
+  "base_artist": "ミテイノハナシ",
+  "createdAt": "2026-02-18T16:23:04.351747Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "夜を越える足音",
+      "artist": "ミテイノハナシ",
+      "has_synced": false,
+      "path": "select/01_夜を越える足音_ミテイノハナシ.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "夜を越える足音",
+      "artist": "ミテイノハナシ",
+      "has_synced": false,
+      "path": "select/pl_01_夜を越える足音_ミテイノハナシ.txt"
+    }
+  ]
+}
